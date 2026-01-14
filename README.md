@@ -39,7 +39,7 @@ It provides **eligibility-based guidance**, similar to how real counselling deci
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/mpdte_predictor.git
+git clone https://github.com/dipanshudhage/MPDTE-B.Tech-Counselling-Assistant.git
 cd mpdte_predictor
 python -m venv venv
 venv\Scripts\activate   # Windows
