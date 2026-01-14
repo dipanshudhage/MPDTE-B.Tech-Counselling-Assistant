@@ -45,3 +45,15 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## 🌐 Live Demo (No Installation Required)
+
+You can access and use the application directly without installing anything:
+
+👉 **Live App URL:** 
+``` bash
+https://mpdte-btech-counselling-assistant.streamlit.app/
+```
+The app is deployed on **Streamlit Cloud** and uses the same logic and data as this repository.
+
