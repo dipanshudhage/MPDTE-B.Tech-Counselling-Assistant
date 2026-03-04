@@ -1,3 +1,4 @@
+pip install plotly
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -257,3 +258,4 @@ if st.button("🚀 Generate AI Counselling List"):
         pdf,
         file_name="mpdte_counselling_report.pdf"
     )
+
