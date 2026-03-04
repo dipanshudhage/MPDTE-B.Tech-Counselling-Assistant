@@ -1,4 +1,7 @@
 streamlit
 pandas
+plotly
 reportlab
+requests
 openpyxl
+numpy
